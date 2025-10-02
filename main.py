@@ -36,7 +36,7 @@ def main():
 
 
 ######################################## center window ########################################
-def center_window(root, width = 800, height = 600):
+def center_window(root, width = 1200, height = 800):
     """ center the tkinter window """
     screen_width = root.winfo_screenwidth()
     screen_height = root.winfo_screenheight()
