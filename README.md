@@ -1,11 +1,32 @@
-Bulls and Cows Game
-Description
+🐂🐄 Bulls and Cows Game
+📌 Description
 
-This is a Python implementation of the classic Bulls and Cows game.
-Players try to guess a secret code within a limited number of attempts. The game provides feedback for each guess:
+This is a Python implementation of the classic Bulls and Cows logic game.
+The program generates a secret code, and the player must guess it within a limited number of attempts.
 
-Bulls: Correct digit in the correct position.
+After each guess, the game provides feedback:
 
-Cows: Correct digit but in the wrong position.
+Bulls 🐂 → Correct digit in the correct position.
 
-This project supports single-player and two-player modes with a GUI built using Tkinter.
+Cows 🐄 → Correct digit, but in the wrong position.
+
+The project includes a Tkinter-based GUI for easy and interactive play.
+
+
+Clone this repository:
+
+git clone https://github.com/fistoook/BulldAndCows.git
+
+
+Navigate to the folder:
+
+cd BulldAndCows
+
+
+Run the game:
+
+python main.py
+
+👨‍💻 Author
+
+Created by fistoook ✨
