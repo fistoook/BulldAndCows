@@ -1,6 +1,6 @@
 🐂🐄 Bulls and Cows Game
 
-This is a Python implementation of the classic Bulls and Cows logic game.
+This is my Python implementation of the classic Bulls and Cows logic game.
 single player vs. AI🤖
 two-player vs. your friend👥
 
