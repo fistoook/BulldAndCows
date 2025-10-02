@@ -12,5 +12,5 @@ Cows 🐄 → Correct digit, but in the wrong position.
 The project includes a Tkinter-based GUI for easy and interactive play.
 When you first play, your name is registered in a .csv file and later remembered!
 
-![Gameplay Demo](python_GCdCKDsbRH.gif)
+![Gameplay Demo](demo-gameplay.gif)
 enjoy :)
